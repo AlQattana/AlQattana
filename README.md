@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah.
 - 👀 I’m interested in Web development and CyberSecurity.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js, React.js.
 - 📫 How to reach me --> a.alqattan@mail.com
 
 <!---
