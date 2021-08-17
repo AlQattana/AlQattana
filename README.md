@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah.
+- 👋 Hi, I’m Abdullah, and I am Software Engineer.
 - 👀 I’m interested in Web development and CyberSecurity.
 - 🌱 I’m currently learning Next.js, React.js.
 - 📫 How to reach me --> a.alqattan@mail.com
